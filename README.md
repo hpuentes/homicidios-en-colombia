@@ -2,7 +2,8 @@
 Colombia es una país con altos indice de violencia, donde los homicidios es una problemática que se ha venido presentando durante muchos años, producto de muchos factores sociales, económicos y políticos.
 ## URL visualización:https://observablehq.com/@hpuentes/los-picos-de-homicidios-en-colombia-se-presentan-en-mayor-me
 ### Objetivo 
-El principal objetivo es identificar si existe algún tipo de temporalidad respecto de los picos de homicidios en Colombia a lo largo de los años 2015 al 2019. Adicional lograr identificar como es el comportamiento de los homicidios a lo largo del tiempo por diferentes rangos de edad y por departamento.
+El principal objetivo es identificar si existe algún tipo de temporalidad respecto de los picos de homicidios en Colombia a lo largo de los años 2015 al 2019. Adicional lograr identificar como es el comportamiento de los homicidios a lo largo del tiempo por diferentes rangos de edad y por departamento. El usuario es el grupo de inteligencia de la policía, que los usa para reforzar logística en picos temporales de homicidios.
+
 ### Alcance 
 La visualización presenta una vista interactiva de la distribución anual de homicidios en Colombia por departamento, con respecto del año y el rango de edades objeto de análisis, donde es posible según la configuración seleccionada ver en orden los departamentos donde se presentan mayor cantidad de homicidios y por cada uno ver la distribución a lo largo del tiempo.
 ## Autor
