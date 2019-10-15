@@ -36,9 +36,9 @@ T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la
 
 ## WHAT?
 ### Attributes: 
-* Fecha homicidio: Ordered, ordinal.
+* Fecha homicidio: Ordered, sequential.
 * Departamento: Categorical.
-* Edad de persona muerta: Ordered, Quantitative sequential.
+* Edad de persona muerta: Ordered, sequential.
 
 ### Dataset:
 * Temporal data.
