@@ -40,7 +40,7 @@ T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la
 * Edad de persona muerta: Ordered, Quantitative sequential.
 
 ### Dataset:
-* Table: With temporal data.
+* Temporal data.
 
 ## WHY?
 1. Presentar la distribución dentro de un año de los eventos por homicidios. (Present)-(Distribution)
