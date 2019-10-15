@@ -21,3 +21,8 @@ Combining code from Mike Bostock block https://observablehq.com/@d3/horizon-char
 
 ## Conclusiones 
 Existe una mayor densidad de homicidios en los departamentos Cauca, Antioquia y Bogotá, justificado en indices poblacionales y por ser regiones en donde se presentan altos niveles de problemática social. La distribución de los homicidios a lo largo de los años muestra que existe picos más altos a lo largo del segundo y cuarto semestre del año. Al identificar como es la distribución de los homicidios a lo largo del tiempo se entiende que la mayor variación se presenta para la población entre los 0 y 35 años, al seguir aumentando el rango de edad se ve que la distribución tiene mínimas variaciones, lo cual indica que la mayor cantidad de homicidios se presentan dentro del rango de edad de 0-35 años.
+
+## Tecnologías usadas
+D3@5
+Javascript
+Despliegue en el sitio observablehq.
