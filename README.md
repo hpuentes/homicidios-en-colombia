@@ -49,6 +49,7 @@ T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la
 4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la distribución de los homicidios. (Browse)-(Outliers) 
 
 ## HOW?
+* Idiom: Horizon chart.
 * Separate order and align: Horizon chart separado por departamento, cada uno ordenado de mayor a menor por cantidad anual de homicidios.
 * Superimpose: Por cada departamento se superponen los niveles de cantidad de homicidios.
 * Select: Selecciona año de homicidios, y selecciona rango de edad.
