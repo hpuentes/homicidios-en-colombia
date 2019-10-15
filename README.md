@@ -45,6 +45,17 @@ T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la
 3. Encontrar los picos dentro de la distribución anual de homicidios. (Lookup)-(Outliers) 
 4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la distribución de los homicidios. (Browse)-(Outliers) 
 
+## HOW?
+* Separate order and align: Horizon chart separado por departamento, cada uno ordenado de mayor a menor por cantidad anual de homicidios.
+* Superimpose: Por cada departamento se superponen los niveles de cantidad de homicidios.
+* Select: Selecciona año de homicidios, y selecciona rango de edad.
+* Change: Cada vez que se selecciona un rango de edad o año de homicidios se presenta un cambio en el horizon chart de cada departamento.
+* Filter: Se filtra el horizon chart por rango de edad de las personas fallecidas.
+* Área 2D: Cada horizon chart de cada departamento presenta un área por niveles en la cantidad de homicidios.
+* Hue: Rojo
+* Color saturation: Por cada nivel del horizon chart por departamento.
+* Position on common scale: Para cada departamento se tiene la misma escala de tiempo (anual).
+
 ## Distribución anual de Homicidios en Colombia por año (De 2015 a 2019) dentro del rango de edad seleccionado (De 0 a 100 años).
 Debe seleccionar el año de distribución de anual de homicidios del combobox donde es posible seleccionar entre (2015 y 2019), adicional es posible seleccionar un rango de edades (0 - 100 por defecto) objeto de análisis arrastrando el limite inferior y superior para ajustarlo a la configuración deseada.
 
