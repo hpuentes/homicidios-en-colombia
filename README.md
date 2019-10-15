@@ -21,7 +21,7 @@ Combining code from Mike Bostock block https://observablehq.com/@d3/horizon-char
 ## Distribución anual de Homicidios en Colombia por año (De 2015 a 2019) dentro del rango de edad seleccionado (De 0 a 100 años).
 Debe seleccionar el año de distribución de anual de homicidios del combobox donde es posible seleccionar entre (2015 y 2019), adicional es posible seleccionar un rango de edades (0 - 100 por defecto) objeto de análisis arrastrando el limite inferior y superior para ajustarlo a la configuración deseada.
 
-![Homicidios 2015-2019](https://github.com/hpuentes/homicidios-en-colombia/blob/master/homicidios%20Colombia%202015-2019%20500p.png)
+![Homicidios 2015-2019](https://github.com/hpuentes/homicidios-en-colombia/blob/master/homicidios%20Colombia%202015-2019.png)
 
 ## Conclusiones 
 Existe una mayor densidad de homicidios en los departamentos Cauca, Antioquia y Bogotá, justificado en indices poblacionales y por ser regiones en donde se presentan altos niveles de problemática social. La distribución de los homicidios a lo largo de los años muestra que existe picos más altos a lo largo del segundo y cuarto semestre del año. Al identificar como es la distribución de los homicidios a lo largo del tiempo se entiende que la mayor variación se presenta para la población entre los 0 y 35 años, al seguir aumentando el rango de edad se ve que la distribución tiene mínimas variaciones, lo cual indica que la mayor cantidad de homicidios se presentan dentro del rango de edad de 0-35 años.
