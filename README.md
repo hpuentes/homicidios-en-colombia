@@ -26,8 +26,10 @@ T1. Presentar la distribución dentro de un año de los eventos por homicidios.
 ### Tareas secundarias.
 T2. Comparar por departamento la distribución dentro de un año de los eventos por homicidios.
 (Compare)-(Extremes)
+
 T3. Encontrar los picos dentro de la distribución anual de homicidios.
 (Lookup)-(Outliers) 
+
 T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la distribución de los homicidios.
 (Browse)-(Outliers) 
 
