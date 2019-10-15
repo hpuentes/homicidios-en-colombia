@@ -19,6 +19,30 @@ Combining code from Mike Bostock block https://observablehq.com/@d3/horizon-char
 * Homicidios 2016. https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-2016/umwz-bt8i
 * Homicidios 2015. https://www.datos.gov.co/Seguridad-y-Defensa/Delito-Homicidios/cfga-dm6m
 
+## Tarea Principal.
+T1. Presentar la distribución dentro de un año de los eventos por homicidios.
+(Present)-(Distribution)
+
+### Tareas secundarias.
+T2. Comparar por departamento la distribución dentro de un año de los eventos por homicidios.
+(Compare)-(Extremes)
+T3. Encontrar los picos dentro de la distribución anual de homicidios.
+(Lookup)-(Outliers) 
+T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la distribución de los homicidios.
+(Browse)-(Outliers) 
+
+## WHAT?
+### Attributes: 
+* Fecha homicidio: Ordered, ordinal.
+* Departamento: Categorical.
+* Edad de persona muerta: Ordered, Quantitative sequential.
+
+## WHY?
+1. Presentar la distribución dentro de un año de los eventos por homicidios. (Present)-(Distribution)
+2. Comparar por departamento la distribución dentro de un año de los eventos por homicidios. (Compare)-(Extremes)
+3. Encontrar los picos dentro de la distribución anual de homicidios. (Lookup)-(Outliers) 
+4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la distribución de los homicidios. (Browse)-(Outliers) 
+
 ## Distribución anual de Homicidios en Colombia por año (De 2015 a 2019) dentro del rango de edad seleccionado (De 0 a 100 años).
 Debe seleccionar el año de distribución de anual de homicidios del combobox donde es posible seleccionar entre (2015 y 2019), adicional es posible seleccionar un rango de edades (0 - 100 por defecto) objeto de análisis arrastrando el limite inferior y superior para ajustarlo a la configuración deseada.
 
