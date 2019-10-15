@@ -51,7 +51,7 @@ T4. Buscar los rangos de edades sobre los cuales se tiene mayor variación en la
 
 ## HOW?
 * Idiom: Horizon chart.
-* Separate order and align: Horizon chart separado por departamento, cada uno ordenado de mayor a menor por cantidad anual de homicidios.
+* Separate and order: Horizon chart separado por departamento, cada uno ordenado de mayor a menor por cantidad anual de homicidios.
 * Superimpose: Por cada departamento se superponen los niveles de cantidad de homicidios.
 * Select: Selecciona año de homicidios, y selecciona rango de edad.
 * Change: Cada vez que se selecciona un rango de edad o año de homicidios se presenta un cambio en el horizon chart de cada departamento.
